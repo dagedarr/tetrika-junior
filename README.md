@@ -8,7 +8,6 @@
 ```
 git clone https://github.com/dagedarr/tetrika-junior.git
 
-сd tetrika-junior/
 ```
 2. Создайте виртуальное окружение и активируйте его
 ```
